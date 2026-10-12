@@ -7,6 +7,8 @@
 
 <br>
 
+# THIS PROJECT HAS MIGRATED TO A ORGANIZATION. THIS IS KEPT JUST FOR REFERENCE AS A OLDER VERSION. FOR ACTIVE MAINTENANCE USE [NightShift Project](https://github.com/NightShift-Network/NightShift-source)
+
 NightShift uses [Scramjet](https://github.com/MercuryWorkshop/scramjet) to proxy browser traffic and [Wisp](https://github.com/MercuryWorkshop/wisp-js) for its WebSocket transport.
 
 ## Easy Install
